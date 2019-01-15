@@ -1,0 +1,12 @@
+C:\Users\DreamChaser\source\repos\raduf24\VisualMoodTracker - Azure\VisualMoodTracker\VisualMoodTracker
+--output-path=obj\Debug\netcoreapp2.0\
+--application-name=VisualMoodTracker
+--content-root=C:\Users\DreamChaser\source\repos\raduf24\VisualMoodTracker - Azure\VisualMoodTracker\VisualMoodTracker
+--file=C:\Users\DreamChaser\source\repos\raduf24\VisualMoodTracker - Azure\VisualMoodTracker\VisualMoodTracker\Views\Home\About.cshtml
+--file=C:\Users\DreamChaser\source\repos\raduf24\VisualMoodTracker - Azure\VisualMoodTracker\VisualMoodTracker\Views\Home\Contact.cshtml
+--file=C:\Users\DreamChaser\source\repos\raduf24\VisualMoodTracker - Azure\VisualMoodTracker\VisualMoodTracker\Views\Home\Index.cshtml
+--file=C:\Users\DreamChaser\source\repos\raduf24\VisualMoodTracker - Azure\VisualMoodTracker\VisualMoodTracker\Views\Shared\Error.cshtml
+--file=C:\Users\DreamChaser\source\repos\raduf24\VisualMoodTracker - Azure\VisualMoodTracker\VisualMoodTracker\Views\Shared\_Layout.cshtml
+--file=C:\Users\DreamChaser\source\repos\raduf24\VisualMoodTracker - Azure\VisualMoodTracker\VisualMoodTracker\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\DreamChaser\source\repos\raduf24\VisualMoodTracker - Azure\VisualMoodTracker\VisualMoodTracker\Views\_ViewImports.cshtml
+--file=C:\Users\DreamChaser\source\repos\raduf24\VisualMoodTracker - Azure\VisualMoodTracker\VisualMoodTracker\Views\_ViewStart.cshtml

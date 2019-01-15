@@ -1,0 +1,30 @@
+C:\Users\DreamChaser\Source\Repos\raduf24\VisualMoodTracker\VisualMoodTracker\VisualMoodTracker\bin\Release\netcoreapp2.0\VisualMoodTracker.deps.json
+C:\Users\DreamChaser\Source\Repos\raduf24\VisualMoodTracker\VisualMoodTracker\VisualMoodTracker\bin\Release\netcoreapp2.0\VisualMoodTracker.runtimeconfig.json
+C:\Users\DreamChaser\Source\Repos\raduf24\VisualMoodTracker\VisualMoodTracker\VisualMoodTracker\bin\Release\netcoreapp2.0\VisualMoodTracker.runtimeconfig.dev.json
+C:\Users\DreamChaser\Source\Repos\raduf24\VisualMoodTracker\VisualMoodTracker\VisualMoodTracker\bin\Release\netcoreapp2.0\VisualMoodTracker.dll
+C:\Users\DreamChaser\Source\Repos\raduf24\VisualMoodTracker\VisualMoodTracker\VisualMoodTracker\bin\Release\netcoreapp2.0\VisualMoodTracker.pdb
+C:\Users\DreamChaser\Source\Repos\raduf24\VisualMoodTracker\VisualMoodTracker\VisualMoodTracker\bin\Release\netcoreapp2.0\ImageAnalysis.dll
+C:\Users\DreamChaser\Source\Repos\raduf24\VisualMoodTracker\VisualMoodTracker\VisualMoodTracker\bin\Release\netcoreapp2.0\ImageAnalysis.pdb
+C:\Users\DreamChaser\Source\Repos\raduf24\VisualMoodTracker\VisualMoodTracker\VisualMoodTracker\obj\Release\netcoreapp2.0\VisualMoodTracker.csprojAssemblyReference.cache
+C:\Users\DreamChaser\Source\Repos\raduf24\VisualMoodTracker\VisualMoodTracker\VisualMoodTracker\obj\Release\netcoreapp2.0\VisualMoodTracker.csproj.CoreCompileInputs.cache
+C:\Users\DreamChaser\Source\Repos\raduf24\VisualMoodTracker\VisualMoodTracker\VisualMoodTracker\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\DreamChaser\Source\Repos\raduf24\VisualMoodTracker\VisualMoodTracker\VisualMoodTracker\obj\Release\netcoreapp2.0\VisualMoodTracker.AssemblyInfoInputs.cache
+C:\Users\DreamChaser\Source\Repos\raduf24\VisualMoodTracker\VisualMoodTracker\VisualMoodTracker\obj\Release\netcoreapp2.0\VisualMoodTracker.AssemblyInfo.cs
+C:\Users\DreamChaser\Source\Repos\raduf24\VisualMoodTracker\VisualMoodTracker\VisualMoodTracker\obj\Release\netcoreapp2.0\VisualMoodTracker.csproj.CopyComplete
+C:\Users\DreamChaser\Source\Repos\raduf24\VisualMoodTracker\VisualMoodTracker\VisualMoodTracker\obj\Release\netcoreapp2.0\VisualMoodTracker.dll
+C:\Users\DreamChaser\Source\Repos\raduf24\VisualMoodTracker\VisualMoodTracker\VisualMoodTracker\obj\Release\netcoreapp2.0\VisualMoodTracker.pdb
+C:\Users\DreamChaser\source\repos\raduf24\VisualMoodTracker - Azure\VisualMoodTracker\VisualMoodTracker\bin\Release\netcoreapp2.0\VisualMoodTracker.deps.json
+C:\Users\DreamChaser\source\repos\raduf24\VisualMoodTracker - Azure\VisualMoodTracker\VisualMoodTracker\bin\Release\netcoreapp2.0\VisualMoodTracker.runtimeconfig.json
+C:\Users\DreamChaser\source\repos\raduf24\VisualMoodTracker - Azure\VisualMoodTracker\VisualMoodTracker\bin\Release\netcoreapp2.0\VisualMoodTracker.runtimeconfig.dev.json
+C:\Users\DreamChaser\source\repos\raduf24\VisualMoodTracker - Azure\VisualMoodTracker\VisualMoodTracker\bin\Release\netcoreapp2.0\VisualMoodTracker.dll
+C:\Users\DreamChaser\source\repos\raduf24\VisualMoodTracker - Azure\VisualMoodTracker\VisualMoodTracker\bin\Release\netcoreapp2.0\VisualMoodTracker.pdb
+C:\Users\DreamChaser\source\repos\raduf24\VisualMoodTracker - Azure\VisualMoodTracker\VisualMoodTracker\bin\Release\netcoreapp2.0\ImageAnalysis.dll
+C:\Users\DreamChaser\source\repos\raduf24\VisualMoodTracker - Azure\VisualMoodTracker\VisualMoodTracker\bin\Release\netcoreapp2.0\ImageAnalysis.pdb
+C:\Users\DreamChaser\source\repos\raduf24\VisualMoodTracker - Azure\VisualMoodTracker\VisualMoodTracker\obj\Release\netcoreapp2.0\VisualMoodTracker.csprojAssemblyReference.cache
+C:\Users\DreamChaser\source\repos\raduf24\VisualMoodTracker - Azure\VisualMoodTracker\VisualMoodTracker\obj\Release\netcoreapp2.0\VisualMoodTracker.csproj.CoreCompileInputs.cache
+C:\Users\DreamChaser\source\repos\raduf24\VisualMoodTracker - Azure\VisualMoodTracker\VisualMoodTracker\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\DreamChaser\source\repos\raduf24\VisualMoodTracker - Azure\VisualMoodTracker\VisualMoodTracker\obj\Release\netcoreapp2.0\VisualMoodTracker.AssemblyInfoInputs.cache
+C:\Users\DreamChaser\source\repos\raduf24\VisualMoodTracker - Azure\VisualMoodTracker\VisualMoodTracker\obj\Release\netcoreapp2.0\VisualMoodTracker.AssemblyInfo.cs
+C:\Users\DreamChaser\source\repos\raduf24\VisualMoodTracker - Azure\VisualMoodTracker\VisualMoodTracker\obj\Release\netcoreapp2.0\VisualMoodTracker.csproj.CopyComplete
+C:\Users\DreamChaser\source\repos\raduf24\VisualMoodTracker - Azure\VisualMoodTracker\VisualMoodTracker\obj\Release\netcoreapp2.0\VisualMoodTracker.dll
+C:\Users\DreamChaser\source\repos\raduf24\VisualMoodTracker - Azure\VisualMoodTracker\VisualMoodTracker\obj\Release\netcoreapp2.0\VisualMoodTracker.pdb
