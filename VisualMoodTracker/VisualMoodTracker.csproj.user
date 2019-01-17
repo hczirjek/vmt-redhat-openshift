@@ -13,5 +13,6 @@
     <GoogleComputeEnginePublishInstanceName>aspnet-1-visualmoodtracker</GoogleComputeEnginePublishInstanceName>
     <GoogleComputeEnginePublishInstanceZone>us-central1-f</GoogleComputeEnginePublishInstanceZone>
     <GoogleComputeEnginePublishInstanceUserName>czirjekhunor9</GoogleComputeEnginePublishInstanceUserName>
+    <ShowAllFiles>true</ShowAllFiles>
   </PropertyGroup>
 </Project>
